@@ -150,7 +150,7 @@ npm run build
 
 - 服务器管理不易，如果觉得项目对您有益，请支持多多一下我们，谢谢(✿◠‿◠)
 
-  ![](weixin_pay.jpg)
+   <img src="weixin_pay.jpg" width="200" alt="微信支付二维码">
 
 ## 项目截图
 
